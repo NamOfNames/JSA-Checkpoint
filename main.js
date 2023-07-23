@@ -13,6 +13,7 @@ function factorial(n) {
 }
 let n = 15;
 answer = factorial(n);
+console.log("Câu 1")
 console.log("Giai thừa của 15 là " + +answer);
 
 // Câu 2
@@ -37,6 +38,7 @@ for (i = 1; i <= n2; i++) {
   }
   string += "\n";
 }
+console.log("Câu 2")
 console.log(string);
 
 // Câu 3
